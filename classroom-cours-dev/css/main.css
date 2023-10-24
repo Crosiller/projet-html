@@ -86,6 +86,12 @@ section p {
     padding: 1rem;
 }
 
+section p img {
+    display: inline-block;
+    width: 100%;
+    object-fit: cover;
+}
+
 section p {
     margin-top: 1rem;
 }
